@@ -1,0 +1,8 @@
+.icon-footer {
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+}
+
+.icon-footer:hover {
+  color: rgba(255, 255, 255, 0.685);
+}

@@ -1,0 +1,101 @@
+.container-fluid {
+
+  background-color: #202838;
+
+}
+
+.h2 {
+  color: rgb(255, 255, 255);
+}
+
+.html-icon {
+  color: rgb(255, 166, 0);
+}
+
+.html-progress {
+  background-color: rgb(255, 166, 0);
+}
+
+.css-icon {
+  color: rgba(0, 0, 255, 0.664);
+}
+
+.js-progress {
+  background-color: rgba(165, 165, 29, 0.932);
+}
+
+.js-icon {
+  color: rgba(165, 165, 29, 0.932);
+}
+
+.bootstrap-icon {
+  color: rgb(128, 0, 128);
+}
+
+.bootstrap-progress {
+  background-color: rgb(128, 0, 128);
+}
+
+.react-icon {
+  color: #00d9ff;
+}
+
+.react-progress {
+  background-color: #00d9ff;
+}
+
+.angular-icon {
+  color: rgb(175, 31, 31);
+}
+
+.angular-progress {
+  background-color: rgb(175, 31, 31);
+}
+
+.php-icon {
+  color: #4B568B;
+}
+
+.php-progress {
+  background-color: #4B568B;
+}
+
+.wp-icon {
+  color: #106891;
+}
+
+.wp-progress {
+  background-color: #106891;
+}
+
+.java-icon {
+  color: #046C8D;
+}
+
+.java-progress {
+  background-color: #046C8D;
+}
+
+.git-icon {
+  color: gray;
+}
+
+.git-progress {
+  background-color: gray;
+}
+
+.sp-icon {
+  color: #67AA3C;
+}
+
+.sp-progress {
+  background-color: #67AA3C;
+}
+
+.d-icon {
+  color: #238EE1;
+}
+
+.d-progress {
+  background-color: #238EE1;
+}

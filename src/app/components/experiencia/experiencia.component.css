@@ -1,0 +1,10 @@
+* {
+  background-color: #202838;
+  color: white;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  box-shadow: 0 1px 5px 1px rgb(201, 32, 201);
+}

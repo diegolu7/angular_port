@@ -1,0 +1,17 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 75vh;
+
+  color: rgb(255, 255, 255);
+
+}
+
+.container-fluid {
+  background-color: #202838;
+}
+
+.form {
+  width: 450px;
+}
